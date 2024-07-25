@@ -15,6 +15,6 @@ Aspiring Frontend Developer | Fresher
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/journeyofsiva?theme=dark&font=Allerta&ext=heatmap)
+![LeetCode Stats]()
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SDE-Siva&bg_color=000000&color=fafafa&line=4c9e56&point=fcfcfc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
