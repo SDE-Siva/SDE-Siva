@@ -4,7 +4,7 @@ Aspiring Frontend Developer | Fresher
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-I'm a final-year Electronics and Communication Engineering student with a passion for frontend development. I enjoy building responsive, user-friendly web applications using modern technologies like **JavaScript** and **React**. I'm also working on improving my problem-solving skills through **Data Structures and Algorithms (DSA)**.
+I'm a final-year Electronics and Communication Engineering student with a passion for frontend development. I enjoy building responsive, user-friendly web applications using modern technologies like **JavaScript** and **React Js**. I'm also working on improving my problem-solving skills through **Data Structures and Algorithms (DSA)**.
 
 - 🔭 Here's my [portfolio]()  
 - 🌱 I’m currently learning **DSA** and refining my **React** skills  
