@@ -1,20 +1,15 @@
-## Hi there 👋 It's me Siva
+## Hi there 👋 I'm Siva
 
-Aspiring Frontend Developer | Fresher
+**Aspiring Frontend Developer | Engineering Graduate (2025)**
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-I'm a final-year Electronics and Communication Engineering student with a passion for frontend development. I enjoy building responsive, user-friendly web applications using modern technologies like **JavaScript** and **React Js**. I'm also working on improving my problem-solving skills through **Data Structures and Algorithms (DSA)**.
+As a final-year Electronics and Communication Engineering student, I’m passionate about crafting responsive and user-centric web applications. With hands-on experience in modern tools like **React.js**, **JavaScript**, and **MySQL**, I specialize in building seamless and efficient web solutions.  
 
-- 🔭 Here's my [portfolio]()  
-- 🌱 I’m currently learning **DSA** and refining my **React** skills  
-- 👯 I’m looking for **Frontend Developer** roles  
-- 💬 Feel free to ask me about tech  
+Beyond development, I’m committed to honing my **Data Structures and Algorithms (DSA)** skills, blending logical problem-solving with creativity to design scalable systems.
+
 
 <br />
-
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]() 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siva-t-551b36246/)
 
 ---
 
